@@ -5,4 +5,5 @@ while True:
             if a ** 2 + b ** 2 == c ** 2:
                 if a + b + c == 1000:
                     print("a={}, b={}, c={} a*b*c={}".format(a, b, c, a * b * c))
+                    quit()
     c += 1
