@@ -6,7 +6,7 @@ def prime(x):
         return True
 
 z = 0
-for num in range(2000000000):
+for num in range(2, 2000000000):
     if prime(num):
         z += num
     
