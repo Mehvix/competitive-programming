@@ -8,10 +8,10 @@ num = input("Number?\n")
 name = input("Name?\n")
 fn = num + "-" + name
 
-x = True
+user_input = True
 in_cont = []
 
-while x is True:
+while user_input is True:
     response = input("'in' file input:\nNote: You have to return twice to finish input\n")
 
     if response != "":

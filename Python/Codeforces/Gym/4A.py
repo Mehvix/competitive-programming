@@ -1,5 +1,5 @@
-x = int(input().strip())
-if (x % 2 == 0) and (x > 0) and (x != 2) and (x <= 100):
+user_input = int(input().strip())
+if (user_input % 2 == 0) and (user_input > 0) and (user_input != 2) and (user_input <= 100):
     print("YES")
 
 else:

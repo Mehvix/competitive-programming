@@ -18,7 +18,7 @@ def leapyear(y):
 
 years = int(fin.readline().strip())
 months = [31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31]
-months = [months[(i - 1) % len(months)] for i, x in enumerate(months)]
+months = [months[(i - 1) % len(months)] for i, user_input in enumerate(months)]
 result = 7 * [0]  # Saturday, Sunday, Monday, Tuesday, ..., Friday
 day = 4  # 7 + 4 = 13
 

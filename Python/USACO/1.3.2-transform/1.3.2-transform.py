@@ -79,7 +79,7 @@ elif three_rotations(initial_pattern) == final_pattern:
     verdict = "3"
 elif reflection(initial_pattern) == final_pattern:
     verdict = "4"
-elif (combination(initial_pattern)[x] for x in range(0, 2)) == final_pattern:
+elif (combination(initial_pattern)[user_input] for user_input in range(0, 2)) == final_pattern:
     verdict = "5"
 elif initial_pattern == final_pattern:
     verdict = "6"

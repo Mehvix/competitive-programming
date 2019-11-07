@@ -60,7 +60,7 @@ for pos1 in range(cases):
     else:
         # print(order)
 
-        indices = [i for i, x in enumerate(seq) if x == "*"]
+        indices = [i for i, user_input in enumerate(seq) if user_input == "*"]
         for i in indices:
             seq[i] = order.pop(0)
         """
