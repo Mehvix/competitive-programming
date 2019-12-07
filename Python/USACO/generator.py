@@ -1,5 +1,4 @@
 import os
-import sys
 from time import localtime, strftime
 
 date = strftime("%b %-d, %Y", localtime())
@@ -8,10 +7,9 @@ num = input("Number?\n")
 name = input("Name?\n")
 fn = num + "-" + name
 
-user_input = True
 in_cont = []
 
-while user_input is True:
+while True:
     response = input("'in' file input:\nNote: You have to return twice to finish input\n")
 
     if response != "":
@@ -25,18 +23,13 @@ with open("{}/{}.py".format(fn, fn), "w") as fout:
     s += date + '\n'
     s += '"""\n\n'
 
-    fout.write(s)
-
-    s = "fin = open('" + name + ".in', 'r')\n"
-    fout.write(s)
-
-    s = "fout = open('" + name + ".out', 'w')\n"
+    s += "fin = open('" + name + ".in', 'r')\n"
+    s += "fout = open('" + name + ".out', 'w')\n\n\n\n"
+    s += "# fout.write(FINAL + '\\n')\n"
 
     fout.write(s)
 
 
 open("{}/{}.in".format(fn, name), "w").write("\n".join(in_cont))
 open("{}/{}.out".format(fn, name), "w").write("")
-
-
-sys.exit()  # prevent terminal from lingering
+exit()

@@ -1,1 +1,1 @@
-My solutions to USACO training [problems](http://train.usaco.org/usacogate).
+My solutions to [USACO training problems](http://train.usaco.org/usacogate).
