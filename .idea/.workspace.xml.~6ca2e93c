@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b363d0c2-fa9f-4d61-93e2-de247131e163" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Python/USACO/2019-2020/December/Bronze/1/gymnastics.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/USACO/2019-2020/December/Bronze/1/gymnastics.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/USACO/2019-2020/December/Bronze/1/gymnastics.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/USACO/2019-2020/December/Bronze/2/whereami.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/USACO/2019-2020/December/Bronze/2/whereami.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/USACO/2019-2020/December/Bronze/2/whereami.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/USACO/2019-2020/December/Bronze/3/lineup.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/USACO/2019-2020/December/Bronze/3/lineup.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/USACO/2019-2020/December/Bronze/3/lineup.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/USACO/Training/1.4.2-barn1/1.4.2-barn1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/USACO/Training/1.4.2-barn1/barn1.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/USACO/Training/1.4.2-barn1/barn1.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Resources/The Design and Analysis of Computer Algorithms [Aho, Hopcroft &amp; Ullman 1974-01-11].pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/CompetitiveProgramming.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/CompetitiveProgramming.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/Codeforces/parse.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/Codeforces/parse.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/USACO/1.2.1-ride/1.2.1-ride.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/USACO/Training/1.2.1-ride/1.2.1-ride.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/USACO/1.2.1-ride/ride.in" beforeDir="false" afterPath="$PROJECT_DIR$/Python/USACO/Training/1.2.1-ride/ride.in" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/USACO/1.2.1-ride/ride.out" beforeDir="false" afterPath="$PROJECT_DIR$/Python/USACO/Training/1.2.1-ride/ride.out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/USACO/1.2.2-gift1/1.2.2-gift1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/USACO/Training/1.2.2-gift1/1.2.2-gift1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/USACO/1.2.2-gift1/gift1.in" beforeDir="false" afterPath="$PROJECT_DIR$/Python/USACO/Training/1.2.2-gift1/gift1.in" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/USACO/1.2.2-gift1/gift1.out" beforeDir="false" afterPath="$PROJECT_DIR$/Python/USACO/Training/1.2.2-gift1/gift1.out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/USACO/1.2.3-friday/1.2.3-friday.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/USACO/Training/1.2.3-friday/1.2.3-friday.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/USACO/1.2.3-friday/friday.in" beforeDir="false" afterPath="$PROJECT_DIR$/Python/USACO/Training/1.2.3-friday/friday.in" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/USACO/1.2.3-friday/friday.out" beforeDir="false" afterPath="$PROJECT_DIR$/Python/USACO/Training/1.2.3-friday/friday.out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/USACO/1.2.4-beads/1.2.4-beads.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/USACO/Training/1.2.4-beads/1.2.4-beads.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/USACO/1.2.4-beads/beads.in" beforeDir="false" afterPath="$PROJECT_DIR$/Python/USACO/Training/1.2.4-beads/beads.in" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/USACO/1.2.4-beads/beads.out" beforeDir="false" afterPath="$PROJECT_DIR$/Python/USACO/Training/1.2.4-beads/beads.out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/USACO/1.3.1-milk2/1.3.1-milk2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/USACO/Training/1.3.1-milk2/1.3.1-milk2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/USACO/1.3.1-milk2/milk2.in" beforeDir="false" afterPath="$PROJECT_DIR$/Python/USACO/Training/1.3.1-milk2/milk2.in" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/USACO/1.3.1-milk2/milk2.out" beforeDir="false" afterPath="$PROJECT_DIR$/Python/USACO/Training/1.3.1-milk2/milk2.out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/USACO/1.3.2-transform/1.3.2-transform.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/USACO/Training/1.3.2-transform/1.3.2-transform.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/USACO/1.3.2-transform/transform.in" beforeDir="false" afterPath="$PROJECT_DIR$/Python/USACO/Training/1.3.2-transform/transform.in" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/USACO/1.3.2-transform/transform.out" beforeDir="false" afterPath="$PROJECT_DIR$/Python/USACO/Training/1.3.2-transform/transform.out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/USACO/1.3.3-namenum/1.3.3-namenum.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/USACO/Training/1.3.3-namenum/1.3.3-namenum.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/USACO/1.3.3-namenum/dict.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Python/USACO/Training/1.3.3-namenum/dict.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/USACO/1.3.3-namenum/namenum.in" beforeDir="false" afterPath="$PROJECT_DIR$/Python/USACO/Training/1.3.3-namenum/namenum.in" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/USACO/1.3.3-namenum/namenum.out" beforeDir="false" afterPath="$PROJECT_DIR$/Python/USACO/Training/1.3.3-namenum/namenum.out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/USACO/1.3.4-palsquare/1.3.4-palsquare.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/USACO/Training/1.3.4-palsquare/1.3.4-palsquare.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/USACO/1.3.4-palsquare/palsquare.in" beforeDir="false" afterPath="$PROJECT_DIR$/Python/USACO/Training/1.3.4-palsquare/palsquare.in" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/USACO/1.3.4-palsquare/palsquare.out" beforeDir="false" afterPath="$PROJECT_DIR$/Python/USACO/Training/1.3.4-palsquare/palsquare.out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/USACO/1.3.5-dualpal/1.3.5-dualpal.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/USACO/Training/1.3.5-dualpal/1.3.5-dualpal.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/USACO/1.3.5-dualpal/dualpal.in" beforeDir="false" afterPath="$PROJECT_DIR$/Python/USACO/Training/1.3.5-dualpal/dualpal.in" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/USACO/1.3.5-dualpal/dualpal.out" beforeDir="false" afterPath="$PROJECT_DIR$/Python/USACO/Training/1.3.5-dualpal/dualpal.out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/USACO/1.4.1-milk/1.4.1-milk.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/USACO/Training/1.4.1-milk/1.4.1-milk.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/USACO/1.4.1-milk/milk.in" beforeDir="false" afterPath="$PROJECT_DIR$/Python/USACO/Training/1.4.1-milk/milk.in" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/USACO/1.4.1-milk/milk.out" beforeDir="false" afterPath="$PROJECT_DIR$/Python/USACO/Training/1.4.1-milk/milk.out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/USACO/generator.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/USACO/Training/generator.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="CompetitiveProgramming" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1RWDGbxsXuhUlmbwymf44dnf5ZI" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Python/USACO/2019-2020/December" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+    <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/Codeforces/Asu Coding Cup 4 - 102397/D.py" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\maxdesktop\Code\CompetitiveProgramming\Python\USACO\2019-2020\December" />
+      <recent name="$PROJECT_DIR$/USACO" />
+      <recent name="$PROJECT_DIR$/ProjectEuler" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\maxdesktop\Code\CompetitiveProgramming\Python\USACO\2019-2020\December\Bronze\3" />
+      <recent name="C:\Users\maxdesktop\Code\CompetitiveProgramming\Python\USACO\2019-2020\December\Bronze\2" />
+      <recent name="C:\Users\maxdesktop\Code\CompetitiveProgramming\Python\USACO\2019-2020\December\Bronze\1" />
+      <recent name="C:\Users\maxdesktop\Code\CompetitiveProgramming\Python\USACO\2019-2020\December\Bronze" />
+      <recent name="C:\Users\maxdesktop\Code\CompetitiveProgramming\Python\USACO\2019-2020\December" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.linup">
+    <configuration name="gymnastics (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="CompetitiveProgramming" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python/USACO/2019-2020/December/Bronze/1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python/USACO/2019-2020/December/Bronze/1/gymnastics.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="gymnastics" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="CompetitiveProgramming" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python/USACO/2019-2020/December/Bronze" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\maxdesktop\Code\CompetitiveProgramming\Python\USACO\2019-2020\December\Bronze\1\gymnastics.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="linup" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="CompetitiveProgramming" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python/USACO/2019-2020/December/Bronze/3" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\maxdesktop\Code\CompetitiveProgramming\Python\USACO\2019-2020\December\Bronze\3\lineup.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="p1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="CompetitiveProgramming" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python/USACO/2019-2020/December" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\maxdesktop\Code\CompetitiveProgramming\Python\USACO\2019-2020\December\Bronze\1\gymnastics.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="whereami" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="CompetitiveProgramming" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python/USACO/2019-2020/December/Bronze/2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python/USACO/2019-2020/December/Bronze/2/whereami.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.linup" />
+        <item itemvalue="Python.gymnastics (1)" />
+        <item itemvalue="Python.whereami" />
+        <item itemvalue="Python.gymnastics" />
+        <item itemvalue="Python.p1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b363d0c2-fa9f-4d61-93e2-de247131e163" name="Default Changelist" comment="" />
+      <created>1569773863620</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1569773863620</updated>
+      <workItem from="1569773864711" duration="11360000" />
+      <workItem from="1569942643793" duration="18408000" />
+      <workItem from="1570114883895" duration="4959000" />
+      <workItem from="1570140643939" duration="599000" />
+      <workItem from="1570232689947" duration="630000" />
+      <workItem from="1570493543200" duration="19798000" />
+      <workItem from="1570719394552" duration="11462000" />
+      <workItem from="1570768697030" duration="17000" />
+      <workItem from="1570768736761" duration="1262000" />
+      <workItem from="1570830229866" duration="737000" />
+      <workItem from="1570833533071" duration="5409000" />
+      <workItem from="1571065138487" duration="5731000" />
+      <workItem from="1571410816846" duration="13000" />
+      <workItem from="1571410844209" duration="4212000" />
+      <workItem from="1571419981542" duration="2182000" />
+      <workItem from="1573095480977" duration="8124000" />
+      <workItem from="1573249968171" duration="1266000" />
+      <workItem from="1573318530869" duration="106000" />
+      <workItem from="1573510670409" duration="2577000" />
+      <workItem from="1574301149509" duration="4883000" />
+      <workItem from="1574393198289" duration="13000" />
+      <workItem from="1575752925580" duration="3067000" />
+      <workItem from="1576354666411" duration="653000" />
+      <workItem from="1576355339060" duration="35200000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1048" y="522" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1576355533957">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="1048" y="522" key="#com.intellij.fileTypes.FileTypeChooser/0.0.2560.1440/-1080.0.1080.1920/2560.0.1080.1920/503.-900.1440.900/1943.-1050.1680.1050/-1177.-1050.1680.1050@0.0.2560.1440" timestamp="1576355533957" />
+    <state x="92" y="92" width="2376" height="1256" key="DiffContextDialog" timestamp="1576563319918">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="92" y="92" width="2376" height="1256" key="DiffContextDialog/0.0.2560.1440/-1080.0.1080.1920/2560.0.1080.1920/503.-900.1440.900/1943.-1050.1680.1050/-1177.-1050.1680.1050@0.0.2560.1440" timestamp="1576563319918" />
+    <state x="1059" y="474" key="FileChooserDialogImpl" timestamp="1576355101992">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="1059" y="474" key="FileChooserDialogImpl/0.0.2560.1440/-1080.0.1080.1920/2560.0.1080.1920/503.-900.1440.900/1943.-1050.1680.1050/-1177.-1050.1680.1050@0.0.2560.1440" timestamp="1576355101992" />
+    <state width="2517" height="413" key="GridCell.Tab.0.bottom" timestamp="1576566058636">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2517" height="413" key="GridCell.Tab.0.bottom/0.0.2560.1440/-1080.0.1080.1920/2560.0.1080.1920/503.-900.1440.900/1943.-1050.1680.1050/-1177.-1050.1680.1050@0.0.2560.1440" timestamp="1576566058636" />
+    <state width="2517" height="413" key="GridCell.Tab.0.center" timestamp="1576566058636">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2517" height="413" key="GridCell.Tab.0.center/0.0.2560.1440/-1080.0.1080.1920/2560.0.1080.1920/503.-900.1440.900/1943.-1050.1680.1050/-1177.-1050.1680.1050@0.0.2560.1440" timestamp="1576566058636" />
+    <state width="2517" height="413" key="GridCell.Tab.0.left" timestamp="1576566058636">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2517" height="413" key="GridCell.Tab.0.left/0.0.2560.1440/-1080.0.1080.1920/2560.0.1080.1920/503.-900.1440.900/1943.-1050.1680.1050/-1177.-1050.1680.1050@0.0.2560.1440" timestamp="1576566058636" />
+    <state width="2517" height="413" key="GridCell.Tab.0.right" timestamp="1576566058636">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2517" height="413" key="GridCell.Tab.0.right/0.0.2560.1440/-1080.0.1080.1920/2560.0.1080.1920/503.-900.1440.900/1943.-1050.1680.1050/-1177.-1050.1680.1050@0.0.2560.1440" timestamp="1576566058636" />
+    <state x="781" y="362" key="SettingsEditor" timestamp="1576355214360">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="781" y="362" key="SettingsEditor/0.0.2560.1440/-1080.0.1080.1920/2560.0.1080.1920/503.-900.1440.900/1943.-1050.1680.1050/-1177.-1050.1680.1050@0.0.2560.1440" timestamp="1576355214360" />
+    <state x="92" y="92" width="2376" height="1256" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1576564338764">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="92" y="92" width="2376" height="1256" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.2560.1440/-1080.0.1080.1920/2560.0.1080.1920/503.-900.1440.900/1943.-1050.1680.1050/-1177.-1050.1680.1050@0.0.2560.1440" timestamp="1576564338764" />
+    <state x="976" y="543" key="com.intellij.ide.util.TipDialog" timestamp="1576355342958">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="976" y="543" key="com.intellij.ide.util.TipDialog/0.0.2560.1440/-1080.0.1080.1920/2560.0.1080.1920/503.-900.1440.900/1943.-1050.1680.1050/-1177.-1050.1680.1050@0.0.2560.1440" timestamp="1576355342958" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/CompetitiveProgramming$1_4_1_milk.coverage" NAME="1.4.1-milk Coverage Results" MODIFIED="1575756154313" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/USACO/1.4.1-milk" />
+    <SUITE FILE_PATH="coverage/CompetitiveProgramming$linup.coverage" NAME="linup Coverage Results" MODIFIED="1576566058629" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/USACO/2019-2020/December/Bronze/3" />
+    <SUITE FILE_PATH="coverage/CompetitiveProgramming$p1.coverage" NAME="p1 Coverage Results" MODIFIED="1576367636318" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/USACO/2019-2020/December" />
+    <SUITE FILE_PATH="coverage/CompetitiveProgramming$Climbing_the_Leaderboard.coverage" NAME="Climbing the Leaderboard Coverage Results" MODIFIED="1573095666173" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/Hackerrank" />
+    <SUITE FILE_PATH="coverage/CompetitiveProgramming$gymnastics__1_.coverage" NAME="gymnastics (1) Coverage Results" MODIFIED="1576563469744" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/USACO/2019-2020/December/Bronze/1" />
+    <SUITE FILE_PATH="coverage/CompetitiveProgramming$generator.coverage" NAME="generator Coverage Results" MODIFIED="1576356679959" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/USACO/Training" />
+    <SUITE FILE_PATH="coverage/CompetitiveProgramming$gymnastics.coverage" NAME="gymnastics Coverage Results" MODIFIED="1576374006903" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/USACO/2019-2020/December/Bronze" />
+    <SUITE FILE_PATH="coverage/CompetitiveProgramming$whereami.coverage" NAME="whereami Coverage Results" MODIFIED="1576553342034" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/USACO/2019-2020/December/Bronze/2" />
+    <SUITE FILE_PATH="coverage/CompetitiveProgramming$_generator.coverage" NAME="~generator Coverage Results" MODIFIED="1575754458655" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/USACO" />
+    <SUITE FILE_PATH="coverage/CompetitiveProgramming$1_3_4_palsquare.coverage" NAME="1.3.4-palsquare Coverage Results" MODIFIED="1573700532352" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/USACO/1.3.4-palsquare" />
+    <SUITE FILE_PATH="coverage/CompetitiveProgramming$1_4_2_barn1.coverage" NAME="1.4.2-barn1 Coverage Results" MODIFIED="1576357437880" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/USACO/Training/1.4.2-barn1" />
+  </component>
+</project>
