@@ -6,6 +6,8 @@ TASK: linup
 Dec 16, 2019
 """
 
+# Note - This isn't finished lol
+
 
 def conbine(l1: list, l2: list):
     return [int(l1[1]), int(l1[0]), int(l2[1])]

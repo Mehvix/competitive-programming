@@ -219,6 +219,5 @@ hs_err_pid*
 
 
 # USACO Files
-
-*.in
-*.out
+# *.in
+# *.out
