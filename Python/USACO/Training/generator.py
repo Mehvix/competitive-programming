@@ -25,6 +25,7 @@ with open("{}/{}.py".format(fn, fn), "w") as fout:
 
     s += "fin = open('" + name + ".in', 'r')\n"
     s += "fout = open('" + name + ".out', 'w')\n\n\n\n"
+    s += "# print(final)\n"
     s += "# fout.write(str(final) + '\\n')\n"
     s += "fout.close()\n"
 

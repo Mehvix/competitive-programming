@@ -73,7 +73,13 @@ for a in possible_num2[:]:
         ones_multi = ones * b
         multi = a * b
 
-        if len(str(multi)) == 4 and len(str(tens_multi)) == 3 and len(str(ones_multi)) == 3 and check_if_valid(tens_multi) and check_if_valid(ones_multi) and check_if_valid(multi):
+        if len(str(multi)) == 4 and \
+                len(str(tens_multi)) == 3 and \
+                len(str(ones_multi)) == 3 and \
+                check_if_valid(tens_multi) and \
+                check_if_valid(ones_multi) and \
+                check_if_valid(multi):
+
             print(a, b, tens_multi, ones_multi, multi)
             total += 1
 
