@@ -33,15 +33,15 @@ for cur_pass in passes:  # pass1 / pass2
         num0 += tol1
         num0 = check_num(num0)
         for tol2 in tolerance:  # tolerance
-                num1 = int(cur_pass[1])
-                num1 += tol2
-                num1 = check_num(num1)
-                for tol3 in tolerance:  # tolerance
-                    num2 = int(cur_pass[2])
-                    num2 += tol3
-                    num2 = check_num(num2)
-                    final.add((num0, num1, num2))
-                    print(cur_pass, tol1, tol2, tol3)
+            num1 = int(cur_pass[1])
+            num1 += tol2
+            num1 = check_num(num1)
+            for tol3 in tolerance:  # tolerance
+                num2 = int(cur_pass[2])
+                num2 += tol3
+                num2 = check_num(num2)
+                final.add((num0, num1, num2))
+                print(cur_pass, tol1, tol2, tol3)
 
 
 print(sorted(final))
