@@ -19,18 +19,26 @@ while True:
 
 os.mkdir(fn)
 with open("{}/{}.py".format(fn, fn), "w") as fout:
-    s = '"""\nID: mehvix1\nLANG: PYTHON3\nTASK: ' + name + '\n\n'
-    s += date + '\n'
-    s += '"""\n\n'
-
-    s += "fin = open('" + name + ".in', 'r')\n"
-    s += "fout = open('" + name + ".out', 'w')\n\n\n\n"
-    s += "# print(final)\n"
-    s += "# fout.write(str(final) + '\\n')\n"
-    s += "fout.close()\n"
-
-    fout.write(s)
-
+    fout.write('"""\n'
+               'ID: mehvix1\n'
+               'LANG: PYTHON3\n'
+               'TASK: ' + name + '\n'
+                                 '\n' +
+               date + '\n' +
+               '"""\n'
+               '\n'
+               'fin = open("' + name + '.in", "r")\n'
+               'fout = open("' + name + '.out", "w")\n'
+                                         "\n"
+               'n = int(fin.readline().strip())\n'
+                                         '\n'
+                                         '\n'
+               '"""\n'
+               'print(final)\n'
+               'fout.write(str(final) + "\\n")\n'
+               'fout.close()\n'
+               '"""\n'
+               )
 
 open("{}/{}.in".format(fn, name), "w").write("\n".join(in_cont))
 open("{}/{}.out".format(fn, name), "w").write("")

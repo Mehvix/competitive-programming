@@ -21,7 +21,7 @@ print(given)
 
 def gen_list(avaliable: list):
     while len(avaliable) >= 2:
-
+        pass # todo fin recur
 
 
 gen_list(given)
