@@ -2,9 +2,17 @@
 <module type="PYTHON_MODULE" version="4">
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/Python/USACO/2019-2020/February/Silver/1-q1-test" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Python/USACO/2019-2020/February/Silver/q2" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Python/USACO/2019-2020/February/Silver" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Python/USACO/2019-2020/February" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Python/USACO/2019-2020/February/Bronze" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Python/USACO/2019-2020/February/Bronze/1-triangles" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Python/USACO/2019-2020/February/Bronze/2-breedflip" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Python/USACO/2019-2020/February/Bronze/3-swap" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/venv" />
     </content>
-    <orderEntry type="jdk" jdkName="Python 3.7 (CompetitiveProgramming)" jdkType="Python SDK" />
+    <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>
