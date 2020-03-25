@@ -20,6 +20,20 @@ def moo(num: int):
     return False  # say num
 
 
+"""
+memo = []
+count = 1
+while len(memo) != n:
+    if moo(count):
+        count += 1
+    else:
+        memo.append(count)
+        # print(memo)
+        count += 1
+final = memo[-1]
+"""
+
+
 def calc(x):
     num = math.floor((x - 1) / 8)
     return memo[x - 8 * num - 1] + 15 * num
@@ -33,19 +47,7 @@ while len(memo) != 15:  # pattern repeats 15
 
 # print(memo)
 
-if n > 8:
-    final = calc(n)
-else:
-    memo = []
-    count = 1
-    while len(memo) != n:
-        if moo(count):
-            count += 1
-        else:
-            memo.append(count)
-            # print(memo)
-            count += 1
-    final = memo[-1]
+final = calc(n)
 
 print(final)
 fout.write(str(final) + '\n')

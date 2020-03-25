@@ -29,10 +29,10 @@ with open("{}/{}.py".format(fn, fn), "w") as fout:
                '\n'
                'fin = open("' + name + '.in", "r")\n'
                'fout = open("' + name + '.out", "w")\n'
-                                         "\n"
+                                        '\n'
                'n = int(fin.readline().strip())\n'
-                                         '\n'
-                                         '\n'
+                                        '\n'
+                                        '\n'
                '"""\n'
                'print(final)\n'
                'fout.write(str(final) + "\\n")\n'
