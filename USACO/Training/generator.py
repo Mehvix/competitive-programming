@@ -30,7 +30,7 @@ with open("{}/{}.py".format(fn, fn), "w") as fout:
                'fin = open("' + name + '.in", "r")\n'
                'fout = open("' + name + '.out", "w")\n'
                                         '\n'
-               'n = int(fin.readline().strip())\n'
+               'N = int(fin.readline().strip())\n'
                                         '\n'
                                         '\n'
                '"""\n'
