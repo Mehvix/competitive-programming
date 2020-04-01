@@ -10,6 +10,7 @@ fin = open('swap.in', 'r')
 fout = open('swap.out', 'w')
 
 
+"""
 def flip(lst, start, stop):
     start -= 1
     # stop -= 1
@@ -19,15 +20,13 @@ def flip(lst, start, stop):
     newlst += lst[start:stop][::-1]  # what's being reversed
     newlst += lst[stop:]  # after stop reverse
     return newlst
-
+"""
 
 n, k = list(map(int, fin.readline().strip().split()))
-lst = list(range(1, n+1))
 a0, a1 = list(map(int, fin.readline().strip().split()))
 b0, b1 = list(map(int, fin.readline().strip().split()))
 
 lst = [None]*n
-print(lst)
 for i in range(1, n + 1):
     positions = []
     currPos = i  # this position starts at 1, not 0
