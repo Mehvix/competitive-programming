@@ -33,7 +33,7 @@ for i in lst:
     for j in i:
         flat.append(j)
 
-# max occuring
+# max occurring
 max_shared = 1
 while flat:
     flat, shared = count(flat, flat[0])
