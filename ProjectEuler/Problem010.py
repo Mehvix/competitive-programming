@@ -1,14 +1,13 @@
+# https://en.wikipedia.org/wiki/Sieve_of_Atkin
+
 def prime(x):
-    for i in range(2, x + 1):
-        if x % i == 0 and i != x and i != 1:
-            return False
-    else:
-        return True
+    cnt, sieve = 0, [True] * x
+    for p in range(2, x):
+        if sieve[p]:
+            cnt += p
+            for i in range(p * p, x, p):
+                sieve[i] = False
+    return cnt
 
 
-z = 0
-for num in range(2, 2000000000):
-    if prime(num):
-        z += num
-
-print(z)
+print(prime(2000000))
