@@ -1,0 +1,31 @@
+{
+  "name" : "A - Sum of Round Numbers",
+  "testType" : "SINGLE",
+  "input" : {
+    "type" : "STANDARD"
+  },
+  "output" : {
+    "type" : "STANDARD"
+  },
+  "tests" : [ {
+    "input" : "5\n5009\n7\n9876\n10000\n10\n",
+    "output" : "2\n5000 9\n1\n7 \n4\n800 70 6 9000 \n1\n10000 \n1\n10 \n",
+    "index" : 0,
+    "active" : true
+  } ],
+  "location" : "src/codeforces",
+  "vmArgs" : "-Xmx256M",
+  "mainClass" : "Main",
+  "taskClass" : "codeforces.TaskA",
+  "checkerClass" : "net.egork.chelper.checkers.TokenChecker",
+  "checkerParameters" : "",
+  "testClasses" : [ ],
+  "date" : "2020.05.09",
+  "contestName" : "Codeforces Round #640 (Div. 4)",
+  "truncate" : true,
+  "inputClass" : "java.util.Scanner",
+  "outputClass" : "java.io.PrintWriter",
+  "includeLocale" : false,
+  "failOnOverflow" : false,
+  "interactive" : false
+}
