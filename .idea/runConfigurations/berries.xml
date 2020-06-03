@@ -1,0 +1,6 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="berries" type="name.admitriev.jhelper.configuration.TaskConfigurationType" className="berries" cppPath="c_wip/tasks/berries.cpp" inputType="CUSTOM" inputFile="berries.in" outputType="CUSTOM" outputFile="berries.out" testType="SINGLE">
+    <tests />
+    <method v="2" />
+  </configuration>
+</component>

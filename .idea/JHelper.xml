@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Configurator">
+    <option name="author" value="Mehvix" />
+    <option name="codeReformattingOn" value="true" />
+    <option name="outputFile" value="c_wip/output/main.cpp" />
+    <option name="runFile" value="c_wip/testrunner/main.cpp" />
+    <option name="tasksDirectory" value="c_wip/tasks" />
+  </component>
+</project>
