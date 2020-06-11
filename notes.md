@@ -1,0 +1,6 @@
+- don't sort within for loop -- sort after
+- `int[]` faster than `ArrayList<Integer>`
+- when reading strings use `fin.next()` over `fin.nextLine()` -- less prone to errors
+- remove/comment `sout` before submission
+- use `int` when var < 2^31 or 2,147,483,648
+- time complexity should be under 10^8/second
